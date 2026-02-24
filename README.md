@@ -137,6 +137,7 @@ The scaffold is applied turn-by-turn, compounding stability over long conversati
 
 > Willow is a control layer implemented as API middleware → infrastructure ships where adoption friction is lowest.
 
+
 > Core architecture is proprietary (3 provisional patents filed). This repository contains the API gateway and integration layer.
 
 ---
